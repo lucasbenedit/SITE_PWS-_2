@@ -18,7 +18,7 @@ const Contact = () => {
   const socialLinks = [
     { icon: <FaInstagram />, url: 'https://www.instagram.com/pere.iraweb/', title: 'Instagram' },
     { icon: <FaGithub />, url: 'https://github.com/lucasbenedit', title: 'GitHub' },
-    { icon: <FaWhatsapp />, url: 'https://wa.me/5513991620801', title: 'WhatsApp' },
+    { icon: <FaWhatsapp />, url: 'https://wa.me/5513988199135', title: 'WhatsApp' },
     { icon: <FaFacebookF />, url: 'https://www.facebook.com/profile.php?id=61574497716961', title: 'Facebook' }
   ];
 
@@ -39,7 +39,7 @@ const Contact = () => {
 
             <div className="contact-item">
               <FaPhone />
-              <span>+55 (13) 99162-0801</span>
+              <span>+55 (13) 98819 9135</span>
             </div>
 
             <div className="contact-item">
